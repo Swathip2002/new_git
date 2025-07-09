@@ -6,4 +6,8 @@ class demo{
 
   }
 
+  void abc(){
+    system.out.println(x:"I am abc");
+  }
+
 }
