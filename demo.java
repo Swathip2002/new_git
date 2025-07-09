@@ -6,4 +6,8 @@ class demo{
 
   }
 
+  void swa(){
+    system.out.println(x:"I am Swathi");
+  }
+
 }
